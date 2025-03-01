@@ -1,1 +1,1 @@
-city_Name : None
+city_Name : Bangalore
